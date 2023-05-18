@@ -1,7 +1,7 @@
 
 ![Análise de Sentimentos em Textos sobre o BNDES](/imagens/capa.png "Análise de Sentimentos em Textos sobre o BNDES")
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Análise de Sentimentos em Textos sobre o BNDES
+# Analise_de_Sentimentos_em_Textos_sobre_o_BNDES
 
 #### Aluno: [Gustavo Dutra Martins](https://github.com/gdutramartins/)
 #### Orientador: [Leonardo Mendoza](https://github.com/leofome8).
